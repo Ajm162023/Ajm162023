@@ -1,16 +1,13 @@
-### Hi there 👋
+### HEY! 👋 My name is Alex Maggard
+### Future Database Engineer
 
-<!--
-**Ajm162023/Ajm162023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior at the University of Missouri-Columbia, majoring in IT Engineering, i also carry an Associates degree in Hospitality Managment. I'm currently searching for full-time new grad Data Analyst positions.
 
-Here are some ideas to get you started:
+    🌍  I'm based in Kansas City, MO
+    ✉️  You can contact me at Ajm162023@ymail.com
+    🧠  I'm learning SnowFlake, AWS, DataBricks
 
-### 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,mysql,sqlite,cs,dotnet,py,mongodb,linux,ps,powershell,stackoverflow&perline=3)](https://skillicons.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajm162023&show_icons=true&theme=tokyonight)
