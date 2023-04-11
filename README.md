@@ -3,9 +3,10 @@
 
 I'm a senior at the University of Missouri-Columbia, majoring in IT Engineering, i also carry an Associates degree in Hospitality Managment. I'm currently searching for full-time new grad Data Analyst positions.
 
-    🌍  I'm based in Kansas City, MO
-    ✉️  You can contact me at Ajm162023@ymail.com
-    🧠  I'm learning SnowFlake, AWS, DataBricks
+
+* 🏡: Kansas City, MO
+* 📧: Ajm162023@gmail.com
+* 📚: Learning AWS, Azure, DataBricks
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,mysql,sqlite,cs,dotnet,py,mongodb,linux,ps,powershell,stackoverflow&perline=3)](https://skillicons.dev)
