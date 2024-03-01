@@ -1,7 +1,7 @@
 ### HEY! 👋 My name is Alex Maggard
-### Future Database Engineer
+### Current Business Systems admin at CMH
 
-I'm a senior at the University of Missouri-Columbia, majoring in IT Engineering, i also carry an Associates degree in Hospitality Managment. I'm currently searching for full-time new grad Data Analyst  or Software Engineer positions.
+Currently working through a baseball analytics side project
 
 
 * 🏡: Kansas City, MO
