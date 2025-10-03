@@ -8,7 +8,7 @@ Currently reading - Football and Analytics with Python and R by Eric Eager and R
 
 * 🏡: Kansas City, MO
 * 📧: Ajm162023@gmail.com
-* 📚: Learning Snowflake, Web App frame works
+* 📚: Learning Django
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,mysql,sqlite,cs,dotnet,py,mongodb,linux,ps,powershell,stackoverflow&perline=3)](https://skillicons.dev)
